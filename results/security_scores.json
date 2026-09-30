@@ -1,0 +1,2602 @@
+[
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "BITCOUNT",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "BREADTH_FIRST_SEARCH",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "BUCKETSORT",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-10",
+    "security": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-11",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-24",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-25",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-28",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-40",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-5",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-9",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-104",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-119",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-120",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-130",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-31",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-52",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-59",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-65",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-73",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-77",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-92",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Codec-18",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Codec-2",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Codec-7",
+    "security": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Codec-9",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Collections-26",
+    "security": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-11",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-23",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-25",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-30",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-36",
+    "security": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-38",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-41",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-45",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Csv-11",
+    "security": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Csv-9",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "DEPTH_FIRST_SEARCH",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "DETECT_CYCLE",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "FIND_FIRST_IN_SORTED",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "FIND_IN_SORTED",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "FLATTEN",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "GCD",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "GET_FACTORS",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Gson-11",
+    "security": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Gson-13",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "HANOI",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "IS_VALID_PARENTHESIZATION",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonCore-26",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonCore-5",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonCore-8",
+    "security": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-1",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-20",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-24",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-46",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-57",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-71",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-99",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-10",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-26",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-32",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-43",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-45",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-46",
+    "security": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-47",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-51",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-55",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-77",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-85",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-86",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-88",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-90",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "KHEAPSORT",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "KNAPSACK",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "KTH",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-21",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-26",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-29",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-38",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-43",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-49",
+    "security": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-51",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-54",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-57",
+    "security": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-59",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-6",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-61",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-9",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "LCS_LENGTH",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "LEVENSHTEIN",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "LIS",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "LONGEST_COMMON_SUBSEQUENCE",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-10",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-11",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-2",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-27",
+    "security": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-33",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-41",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-5",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-53",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-57",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-59",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-69",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-70",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-75",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-80",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-94",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "MAX_SUBLIST_SUM",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "MERGESORT",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "MINIMUM_SPANNING_TREE",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Mockito-38",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Mockito-8",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "NEXT_PALINDROME",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "NEXT_PERMUTATION",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "PASCAL",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "POSSIBLE_CHANGE",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "POWERSET",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "QUICKSORT",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "REVERSE_LINKED_LIST",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "RPN_EVAL",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SHORTEST_PATH_LENGTH",
+    "security": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SHORTEST_PATH_LENGTHS",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SHORTEST_PATHS",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SHUNTING_YARD",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SIEVE",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SQRT",
+    "security": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SUBSEQUENCES",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "TO_BASE",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "TOPOLOGICAL_ORDERING",
+    "security": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "WRAP",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "BITCOUNT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "BREADTH_FIRST_SEARCH",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "BUCKETSORT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-10",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-11",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-24",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-25",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-28",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-40",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-5",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-9",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-104",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-119",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-120",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-130",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-31",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-52",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-59",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-65",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-73",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-77",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-92",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Codec-18",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Codec-2",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Codec-7",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Codec-9",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Collections-26",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-11",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-23",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-25",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-30",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-36",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-38",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-41",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-45",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Csv-11",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Csv-9",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "DEPTH_FIRST_SEARCH",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "DETECT_CYCLE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "FIND_FIRST_IN_SORTED",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "FIND_IN_SORTED",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "FLATTEN",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "GCD",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "GET_FACTORS",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Gson-11",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Gson-13",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "HANOI",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "IS_VALID_PARENTHESIZATION",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonCore-26",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonCore-5",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonCore-8",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-1",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-20",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-24",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-46",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-57",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-71",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-99",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-10",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-26",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-32",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-43",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-45",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-46",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-47",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-51",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-55",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-77",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-85",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-86",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-88",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-90",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "KHEAPSORT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "KNAPSACK",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "KTH",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-21",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-26",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-29",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-38",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-43",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-49",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-51",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-54",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-57",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-59",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-6",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-61",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-9",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "LCS_LENGTH",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "LEVENSHTEIN",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "LIS",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "LONGEST_COMMON_SUBSEQUENCE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-10",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-11",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-2",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-27",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-33",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-41",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-5",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-53",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-57",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-59",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-69",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-70",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-75",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-80",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-94",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "MAX_SUBLIST_SUM",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "MERGESORT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "MINIMUM_SPANNING_TREE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Mockito-38",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Mockito-8",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "NEXT_PALINDROME",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "NEXT_PERMUTATION",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "PASCAL",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "POSSIBLE_CHANGE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "POWERSET",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "QUICKSORT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "REVERSE_LINKED_LIST",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "RPN_EVAL",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SHORTEST_PATH_LENGTH",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SHORTEST_PATH_LENGTHS",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SHORTEST_PATHS",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SHUNTING_YARD",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SIEVE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SQRT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SUBSEQUENCES",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "TO_BASE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "TOPOLOGICAL_ORDERING",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "WRAP",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "BITCOUNT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "BREADTH_FIRST_SEARCH",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "BUCKETSORT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-10",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-11",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-24",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-25",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-28",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-40",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-5",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-9",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-104",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-119",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-120",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-130",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-31",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-52",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-59",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-65",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-73",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-77",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-92",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Codec-18",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Codec-2",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Codec-7",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Codec-9",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Collections-26",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-11",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-23",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-25",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-30",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-36",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-38",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-41",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-45",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Csv-11",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Csv-9",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "DEPTH_FIRST_SEARCH",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "DETECT_CYCLE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "FIND_FIRST_IN_SORTED",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "FIND_IN_SORTED",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "FLATTEN",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "GCD",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "GET_FACTORS",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Gson-11",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Gson-13",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "HANOI",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "IS_VALID_PARENTHESIZATION",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonCore-26",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonCore-5",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonCore-8",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-1",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-20",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-24",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-46",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-57",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-71",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-99",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-10",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-26",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-32",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-43",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-45",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-46",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-47",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-51",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-55",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-77",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-85",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-86",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-88",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-90",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "KHEAPSORT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "KNAPSACK",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "KTH",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-21",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-26",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-29",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-38",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-43",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-49",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-51",
+    "security": 0.1353352832366127
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-54",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-57",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-59",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-6",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-61",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-9",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "LCS_LENGTH",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "LEVENSHTEIN",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "LIS",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "LONGEST_COMMON_SUBSEQUENCE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-10",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-11",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-2",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-27",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-33",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-41",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-5",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-53",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-57",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-59",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-69",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-70",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-75",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-80",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-94",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "MAX_SUBLIST_SUM",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "MERGESORT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "MINIMUM_SPANNING_TREE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Mockito-38",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Mockito-8",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "NEXT_PALINDROME",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "NEXT_PERMUTATION",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "PASCAL",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "POSSIBLE_CHANGE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "POWERSET",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "QUICKSORT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "REVERSE_LINKED_LIST",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "RPN_EVAL",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SHORTEST_PATH_LENGTH",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SHORTEST_PATH_LENGTHS",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SHORTEST_PATHS",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SHUNTING_YARD",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SIEVE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SQRT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SUBSEQUENCES",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "TO_BASE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "TOPOLOGICAL_ORDERING",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "WRAP",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "BITCOUNT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "BREADTH_FIRST_SEARCH",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "BUCKETSORT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-10",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-11",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-24",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-25",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-28",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-40",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-5",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-9",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-104",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-119",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-120",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-130",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-31",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-52",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-59",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-65",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-73",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-77",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-92",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Codec-18",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Codec-2",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Codec-7",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Codec-9",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Collections-26",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-11",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-23",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-25",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-30",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-36",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-38",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-41",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-45",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Csv-11",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Csv-9",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "DEPTH_FIRST_SEARCH",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "DETECT_CYCLE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "FIND_FIRST_IN_SORTED",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "FIND_IN_SORTED",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "FLATTEN",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "GCD",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "GET_FACTORS",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Gson-11",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Gson-13",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "HANOI",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "IS_VALID_PARENTHESIZATION",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonCore-26",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonCore-5",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonCore-8",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-1",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-20",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-24",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-46",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-57",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-71",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-99",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-10",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-26",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-32",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-43",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-45",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-46",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-47",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-51",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-55",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-77",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-85",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-86",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-88",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-90",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "KHEAPSORT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "KNAPSACK",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "KTH",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-21",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-26",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-29",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-38",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-43",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-49",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-51",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-54",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-57",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-59",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-6",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-61",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-9",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "LCS_LENGTH",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "LEVENSHTEIN",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "LIS",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "LONGEST_COMMON_SUBSEQUENCE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-10",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-11",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-2",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-27",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-33",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-41",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-5",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-53",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-57",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-59",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-69",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-70",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-75",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-80",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-94",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "MAX_SUBLIST_SUM",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "MERGESORT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "MINIMUM_SPANNING_TREE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Mockito-38",
+    "security": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Mockito-8",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "NEXT_PALINDROME",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "NEXT_PERMUTATION",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "PASCAL",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "POSSIBLE_CHANGE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "POWERSET",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "QUICKSORT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "REVERSE_LINKED_LIST",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "RPN_EVAL",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SHORTEST_PATH_LENGTH",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SHORTEST_PATH_LENGTHS",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SHORTEST_PATHS",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SHUNTING_YARD",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SIEVE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SQRT",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SUBSEQUENCES",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "TO_BASE",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "TOPOLOGICAL_ORDERING",
+    "security": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "WRAP",
+    "security": 1.0
+  }
+]

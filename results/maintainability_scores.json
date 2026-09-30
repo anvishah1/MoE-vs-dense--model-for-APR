@@ -1,0 +1,2602 @@
+[
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "BITCOUNT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "BREADTH_FIRST_SEARCH",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "BUCKETSORT",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-10",
+    "maintainability": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-11",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-24",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-25",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-28",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-40",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-5",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-9",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-104",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-119",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-120",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-130",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-31",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-52",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-59",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-65",
+    "maintainability": 0.7408182206817179
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-73",
+    "maintainability": 0.7408182206817179
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-77",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-92",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Codec-18",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Codec-2",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Codec-7",
+    "maintainability": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Codec-9",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Collections-26",
+    "maintainability": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-11",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-23",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-25",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-30",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-36",
+    "maintainability": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-38",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-41",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-45",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Csv-11",
+    "maintainability": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Csv-9",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "DEPTH_FIRST_SEARCH",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "DETECT_CYCLE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "FIND_FIRST_IN_SORTED",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "FIND_IN_SORTED",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "FLATTEN",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "GCD",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "GET_FACTORS",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Gson-11",
+    "maintainability": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Gson-13",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "HANOI",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "IS_VALID_PARENTHESIZATION",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonCore-26",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonCore-5",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonCore-8",
+    "maintainability": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-1",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-20",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-24",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-46",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-57",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-71",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-99",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-10",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-26",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-32",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-43",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-45",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-46",
+    "maintainability": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-47",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-51",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-55",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-77",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-85",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-86",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-88",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-90",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "KHEAPSORT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "KNAPSACK",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "KTH",
+    "maintainability": 0.5488116360940265
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-21",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-26",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-29",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-38",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-43",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-49",
+    "maintainability": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-51",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-54",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-57",
+    "maintainability": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-59",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-6",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-61",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-9",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "LCS_LENGTH",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "LEVENSHTEIN",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "LIS",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "LONGEST_COMMON_SUBSEQUENCE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-10",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-11",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-2",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-27",
+    "maintainability": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-33",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-41",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-5",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-53",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-57",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-59",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-69",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-70",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-75",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-80",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-94",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "MAX_SUBLIST_SUM",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "MERGESORT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "MINIMUM_SPANNING_TREE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Mockito-38",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Mockito-8",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "NEXT_PALINDROME",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "NEXT_PERMUTATION",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "PASCAL",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "POSSIBLE_CHANGE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "POWERSET",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "QUICKSORT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "REVERSE_LINKED_LIST",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "RPN_EVAL",
+    "maintainability": 0.7408182206817179
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SHORTEST_PATH_LENGTH",
+    "maintainability": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SHORTEST_PATH_LENGTHS",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SHORTEST_PATHS",
+    "maintainability": 0.4723665527410147
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SHUNTING_YARD",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SIEVE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SQRT",
+    "maintainability": 0.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SUBSEQUENCES",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "TO_BASE",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "TOPOLOGICAL_ORDERING",
+    "maintainability": 1.0
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "WRAP",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "BITCOUNT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "BREADTH_FIRST_SEARCH",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "BUCKETSORT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-10",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-11",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-24",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-25",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-28",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-40",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-5",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-9",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-104",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-119",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-120",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-130",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-31",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-52",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-59",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-65",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-73",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-77",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-92",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Codec-18",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Codec-2",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Codec-7",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Codec-9",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Collections-26",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-11",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-23",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-25",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-30",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-36",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-38",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-41",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-45",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Csv-11",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Csv-9",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "DEPTH_FIRST_SEARCH",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "DETECT_CYCLE",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "FIND_FIRST_IN_SORTED",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "FIND_IN_SORTED",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "FLATTEN",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "GCD",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "GET_FACTORS",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Gson-11",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Gson-13",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "HANOI",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "IS_VALID_PARENTHESIZATION",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonCore-26",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonCore-5",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonCore-8",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-1",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-20",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-24",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-46",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-57",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-71",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-99",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-10",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-26",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-32",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-43",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-45",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-46",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-47",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-51",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-55",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-77",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-85",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-86",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-88",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-90",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "KHEAPSORT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "KNAPSACK",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "KTH",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-21",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-26",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-29",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-38",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-43",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-49",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-51",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-54",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-57",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-59",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-6",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-61",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-9",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "LCS_LENGTH",
+    "maintainability": 0.30119421191220214
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "LEVENSHTEIN",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "LIS",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "LONGEST_COMMON_SUBSEQUENCE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-10",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-11",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-2",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-27",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-33",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-41",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-5",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-53",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-57",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-59",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-69",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-70",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-75",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-80",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-94",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "MAX_SUBLIST_SUM",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "MERGESORT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "MINIMUM_SPANNING_TREE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Mockito-38",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Mockito-8",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "NEXT_PALINDROME",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "NEXT_PERMUTATION",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "PASCAL",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "POSSIBLE_CHANGE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "POWERSET",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "QUICKSORT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "REVERSE_LINKED_LIST",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "RPN_EVAL",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SHORTEST_PATH_LENGTH",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SHORTEST_PATH_LENGTHS",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SHORTEST_PATHS",
+    "maintainability": 0.5488116360940265
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SHUNTING_YARD",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SIEVE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SQRT",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SUBSEQUENCES",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "TO_BASE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "TOPOLOGICAL_ORDERING",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "WRAP",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "BITCOUNT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "BREADTH_FIRST_SEARCH",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "BUCKETSORT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-10",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-11",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-24",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-25",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-28",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-40",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-5",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-9",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-104",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-119",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-120",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-130",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-31",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-52",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-59",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-65",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-73",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-77",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-92",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Codec-18",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Codec-2",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Codec-7",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Codec-9",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Collections-26",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-11",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-23",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-25",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-30",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-36",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-38",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-41",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-45",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Csv-11",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Csv-9",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "DEPTH_FIRST_SEARCH",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "DETECT_CYCLE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "FIND_FIRST_IN_SORTED",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "FIND_IN_SORTED",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "FLATTEN",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "GCD",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "GET_FACTORS",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Gson-11",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Gson-13",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "HANOI",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "IS_VALID_PARENTHESIZATION",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonCore-26",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonCore-5",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonCore-8",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-1",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-20",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-24",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-46",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-57",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-71",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-99",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-10",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-26",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-32",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-43",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-45",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-46",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-47",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-51",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-55",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-77",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-85",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-86",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-88",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-90",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "KHEAPSORT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "KNAPSACK",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "KTH",
+    "maintainability": 0.7408182206817179
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-21",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-26",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-29",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-38",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-43",
+    "maintainability": 0.6376281516217733
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-49",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-51",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-54",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-57",
+    "maintainability": 0.7408182206817179
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-59",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-6",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-61",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-9",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "LCS_LENGTH",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "LEVENSHTEIN",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "LIS",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "LONGEST_COMMON_SUBSEQUENCE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-10",
+    "maintainability": 0.06720551273974978
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-11",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-2",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-27",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-33",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-41",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-5",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-53",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-57",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-59",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-69",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-70",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-75",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-80",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-94",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "MAX_SUBLIST_SUM",
+    "maintainability": 0.7408182206817179
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "MERGESORT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "MINIMUM_SPANNING_TREE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Mockito-38",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Mockito-8",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "NEXT_PALINDROME",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "NEXT_PERMUTATION",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "PASCAL",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "POSSIBLE_CHANGE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "POWERSET",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "QUICKSORT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "REVERSE_LINKED_LIST",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "RPN_EVAL",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SHORTEST_PATH_LENGTH",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SHORTEST_PATH_LENGTHS",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SHORTEST_PATHS",
+    "maintainability": 0.5488116360940265
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SHUNTING_YARD",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SIEVE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SQRT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SUBSEQUENCES",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "TO_BASE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "TOPOLOGICAL_ORDERING",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "WRAP",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "BITCOUNT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "BREADTH_FIRST_SEARCH",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "BUCKETSORT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-10",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-11",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-24",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-25",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-28",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-40",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-5",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-9",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-104",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-119",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-120",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-130",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-31",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-52",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-59",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-65",
+    "maintainability": 0.7408182206817179
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-73",
+    "maintainability": 0.7408182206817179
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-77",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-92",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Codec-18",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Codec-2",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Codec-7",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Codec-9",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Collections-26",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-11",
+    "maintainability": 0.7408182206817179
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-23",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-25",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-30",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-36",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-38",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-41",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-45",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Csv-11",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Csv-9",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "DEPTH_FIRST_SEARCH",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "DETECT_CYCLE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "FIND_FIRST_IN_SORTED",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "FIND_IN_SORTED",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "FLATTEN",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "GCD",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "GET_FACTORS",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Gson-11",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Gson-13",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "HANOI",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "IS_VALID_PARENTHESIZATION",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonCore-26",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonCore-5",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonCore-8",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-1",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-20",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-24",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-46",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-57",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-71",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-99",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-10",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-26",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-32",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-43",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-45",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-46",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-47",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-51",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-55",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-77",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-85",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-86",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-88",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-90",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "KHEAPSORT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "KNAPSACK",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "KTH",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-21",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-26",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-29",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-38",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-43",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-49",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-51",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-54",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-57",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-59",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-6",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-61",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-9",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "LCS_LENGTH",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "LEVENSHTEIN",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "LIS",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "LONGEST_COMMON_SUBSEQUENCE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-10",
+    "maintainability": 0.22313016014842982
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-11",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-2",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-27",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-33",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-41",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-5",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-53",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-57",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-59",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-69",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-70",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-75",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-80",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-94",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "MAX_SUBLIST_SUM",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "MERGESORT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "MINIMUM_SPANNING_TREE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Mockito-38",
+    "maintainability": 0.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Mockito-8",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "NEXT_PALINDROME",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "NEXT_PERMUTATION",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "PASCAL",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "POSSIBLE_CHANGE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "POWERSET",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "QUICKSORT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "REVERSE_LINKED_LIST",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "RPN_EVAL",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SHORTEST_PATH_LENGTH",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SHORTEST_PATH_LENGTHS",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SHORTEST_PATHS",
+    "maintainability": 0.5488116360940265
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SHUNTING_YARD",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SIEVE",
+    "maintainability": 0.8607079764250578
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SQRT",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SUBSEQUENCES",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "TO_BASE",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "TOPOLOGICAL_ORDERING",
+    "maintainability": 1.0
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "WRAP",
+    "maintainability": 1.0
+  }
+]

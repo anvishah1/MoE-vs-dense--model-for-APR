@@ -1,0 +1,26 @@
+# Large model weights - not needed to show the work was done
+models/*.gguf
+
+# Third-party tools/binaries - external downloads, not project code
+tools/
+
+# Cloned benchmark repo - has its own .git, would create a nested-repo mess
+data/quixbugs_raw/
+
+# Cached per-bug metadata/baselines - regeneratable, not needed as proof of work
+data/defects4j_meta/
+data/defects4j_security_baseline/
+
+# Raw generated patches and stale intermediate result file - the aggregated
+# scores in results/*.json are the actual evidence of what was produced
+results/patches/
+results/patch_scores.json
+
+# Python artifacts
+scripts/__pycache__/
+scripts/_scratch_*/
+__pycache__/
+*.pyc
+
+# Run logs from today's session - verbose, not needed to show completion
+logs_*.txt

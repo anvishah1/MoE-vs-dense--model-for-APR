@@ -1,0 +1,56 @@
+{
+  "per_model": {
+    "deepseek-coder-v2:16b-lite-instruct-q4_K_M": {
+      "n_bugs": 130,
+      "n_compiled": 117,
+      "correctness": 0.3230769230769231,
+      "maintainability": 0.8768461895285055,
+      "security": 0.9,
+      "efficiency": 0.8098299261993492
+    },
+    "qwen2.5-coder:14b-instruct": {
+      "n_bugs": 130,
+      "n_compiled": 117,
+      "correctness": 0.4,
+      "maintainability": 0.8804391200942832,
+      "security": 0.9,
+      "efficiency": 0.24004320677947466
+    },
+    "qwen2.5-coder:3b-instruct": {
+      "n_bugs": 130,
+      "n_compiled": 115,
+      "correctness": 0.15384615384615385,
+      "maintainability": 0.8555574750025094,
+      "security": 0.8779641175633586,
+      "efficiency": 1.0
+    },
+    "qwen2.5-coder:7b-instruct": {
+      "n_bugs": 130,
+      "n_compiled": 120,
+      "correctness": 0.3076923076923077,
+      "maintainability": 0.896934432481063,
+      "security": 0.9230769230769231,
+      "efficiency": 0.4796155201724217
+    }
+  },
+  "qi": {
+    "equal": {
+      "deepseek-coder-v2:16b-lite-instruct-q4_K_M": 0.7274382597011945,
+      "qwen2.5-coder:3b-instruct": 0.7218419366030054,
+      "qwen2.5-coder:7b-instruct": 0.6518297958556789,
+      "qwen2.5-coder:14b-instruct": 0.6051205817184395
+    },
+    "correctness_priority": {
+      "deepseek-coder-v2:16b-lite-instruct-q4_K_M": 0.6465659923763403,
+      "qwen2.5-coder:3b-instruct": 0.6082427800516352,
+      "qwen2.5-coder:7b-instruct": 0.5830022982230046,
+      "qwen2.5-coder:14b-instruct": 0.5640964653747517
+    },
+    "other_priority": {
+      "qwen2.5-coder:3b-instruct": 0.8354410931543758,
+      "deepseek-coder-v2:16b-lite-instruct-q4_K_M": 0.8083105270260488,
+      "qwen2.5-coder:7b-instruct": 0.7206572934883531,
+      "qwen2.5-coder:14b-instruct": 0.6461446980621274
+    }
+  }
+}

@@ -1,0 +1,3642 @@
+[
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "BITCOUNT",
+    "tokens_per_sec": 77.78669130588298,
+    "eval_count": 115,
+    "peak_vram_mb": 10189
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "BREADTH_FIRST_SEARCH",
+    "tokens_per_sec": 70.14303945493623,
+    "eval_count": 268,
+    "peak_vram_mb": 10193
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "BUCKETSORT",
+    "tokens_per_sec": 70.43307537219479,
+    "eval_count": 224,
+    "peak_vram_mb": 10193
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-10",
+    "tokens_per_sec": 80.13049823999084,
+    "eval_count": 42,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-11",
+    "tokens_per_sec": 71.91773554237369,
+    "eval_count": 183,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-24",
+    "tokens_per_sec": 67.49554669590273,
+    "eval_count": 337,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-25",
+    "tokens_per_sec": 66.95533739981066,
+    "eval_count": 316,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-28",
+    "tokens_per_sec": 67.72414483544505,
+    "eval_count": 299,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-40",
+    "tokens_per_sec": 67.52007356175413,
+    "eval_count": 346,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-5",
+    "tokens_per_sec": 76.30886047615274,
+    "eval_count": 105,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Cli-9",
+    "tokens_per_sec": 69.63180072264124,
+    "eval_count": 173,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-104",
+    "tokens_per_sec": 69.08603128384686,
+    "eval_count": 245,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-119",
+    "tokens_per_sec": 59.307252462832295,
+    "eval_count": 947,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-120",
+    "tokens_per_sec": 77.67442763656135,
+    "eval_count": 128,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-130",
+    "tokens_per_sec": 68.23115991818193,
+    "eval_count": 414,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-31",
+    "tokens_per_sec": 55.12625548779338,
+    "eval_count": 1196,
+    "peak_vram_mb": 10207
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-52",
+    "tokens_per_sec": 82.0014528728003,
+    "eval_count": 85,
+    "peak_vram_mb": 10207
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-59",
+    "tokens_per_sec": 68.08488006745218,
+    "eval_count": 594,
+    "peak_vram_mb": 10207
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-65",
+    "tokens_per_sec": 64.98902002581174,
+    "eval_count": 615,
+    "peak_vram_mb": 10217
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-73",
+    "tokens_per_sec": 64.79843149803209,
+    "eval_count": 614,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-77",
+    "tokens_per_sec": 65.6388249612108,
+    "eval_count": 569,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Closure-92",
+    "tokens_per_sec": 66.56743449433237,
+    "eval_count": 613,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Codec-18",
+    "tokens_per_sec": 70.37560543321328,
+    "eval_count": 130,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Codec-2",
+    "tokens_per_sec": 65.64860971640091,
+    "eval_count": 678,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Codec-7",
+    "tokens_per_sec": 85.3231614740831,
+    "eval_count": 34,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Codec-9",
+    "tokens_per_sec": 68.59304699861222,
+    "eval_count": 194,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Collections-26",
+    "tokens_per_sec": 85.76871337901645,
+    "eval_count": 19,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-11",
+    "tokens_per_sec": 67.04001086775017,
+    "eval_count": 563,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-23",
+    "tokens_per_sec": 71.66118939222136,
+    "eval_count": 164,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-25",
+    "tokens_per_sec": 71.12133239540832,
+    "eval_count": 119,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-30",
+    "tokens_per_sec": 67.69069010905612,
+    "eval_count": 274,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-36",
+    "tokens_per_sec": 69.78824426128233,
+    "eval_count": 115,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-38",
+    "tokens_per_sec": 82.05538024641587,
+    "eval_count": 92,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-41",
+    "tokens_per_sec": 57.03494135500978,
+    "eval_count": 1056,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Compress-45",
+    "tokens_per_sec": 70.37038164767512,
+    "eval_count": 208,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Csv-11",
+    "tokens_per_sec": 66.28729255458464,
+    "eval_count": 348,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Csv-9",
+    "tokens_per_sec": 79.73975842477732,
+    "eval_count": 88,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "DEPTH_FIRST_SEARCH",
+    "tokens_per_sec": 70.6372924782303,
+    "eval_count": 250,
+    "peak_vram_mb": 10193
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "DETECT_CYCLE",
+    "tokens_per_sec": 71.99891411473794,
+    "eval_count": 183,
+    "peak_vram_mb": 10193
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "FIND_FIRST_IN_SORTED",
+    "tokens_per_sec": 70.5917631663848,
+    "eval_count": 242,
+    "peak_vram_mb": 10193
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "FIND_IN_SORTED",
+    "tokens_per_sec": 70.02172988394332,
+    "eval_count": 242,
+    "peak_vram_mb": 10193
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "FLATTEN",
+    "tokens_per_sec": 69.17207938187829,
+    "eval_count": 210,
+    "peak_vram_mb": 10193
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "GCD",
+    "tokens_per_sec": 80.34981202195239,
+    "eval_count": 119,
+    "peak_vram_mb": 10193
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "GET_FACTORS",
+    "tokens_per_sec": 69.07142257744862,
+    "eval_count": 228,
+    "peak_vram_mb": 10193
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Gson-11",
+    "tokens_per_sec": 85.76603208926966,
+    "eval_count": 94,
+    "peak_vram_mb": 10249
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Gson-13",
+    "tokens_per_sec": 59.786598001177786,
+    "eval_count": 926,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "HANOI",
+    "tokens_per_sec": 70.64307118490005,
+    "eval_count": 406,
+    "peak_vram_mb": 10197
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "IS_VALID_PARENTHESIZATION",
+    "tokens_per_sec": 70.693561468628,
+    "eval_count": 184,
+    "peak_vram_mb": 10197
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonCore-26",
+    "tokens_per_sec": 69.64376274225407,
+    "eval_count": 259,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonCore-5",
+    "tokens_per_sec": 69.77705215665286,
+    "eval_count": 206,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonCore-8",
+    "tokens_per_sec": 72.21203633855,
+    "eval_count": 159,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-1",
+    "tokens_per_sec": 69.5840890072402,
+    "eval_count": 424,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-20",
+    "tokens_per_sec": 76.6366859085571,
+    "eval_count": 105,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-24",
+    "tokens_per_sec": 72.87348985853728,
+    "eval_count": 124,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-46",
+    "tokens_per_sec": 85.47622645997112,
+    "eval_count": 69,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-57",
+    "tokens_per_sec": 93.97150819001214,
+    "eval_count": 107,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-71",
+    "tokens_per_sec": 69.43142702989397,
+    "eval_count": 493,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "JacksonDatabind-99",
+    "tokens_per_sec": 85.82507442863012,
+    "eval_count": 61,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-10",
+    "tokens_per_sec": 74.11772787585822,
+    "eval_count": 205,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-26",
+    "tokens_per_sec": 85.74981063583483,
+    "eval_count": 60,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-32",
+    "tokens_per_sec": 91.17484486030304,
+    "eval_count": 32,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-43",
+    "tokens_per_sec": 92.98618490967056,
+    "eval_count": 98,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-45",
+    "tokens_per_sec": 77.53517135032075,
+    "eval_count": 483,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-46",
+    "tokens_per_sec": 71.58479727562725,
+    "eval_count": 683,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-47",
+    "tokens_per_sec": 70.84263546662258,
+    "eval_count": 658,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-51",
+    "tokens_per_sec": 100.10243039389142,
+    "eval_count": 43,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-55",
+    "tokens_per_sec": 88.34002009251844,
+    "eval_count": 137,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-77",
+    "tokens_per_sec": 79.23908741927802,
+    "eval_count": 175,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-85",
+    "tokens_per_sec": 105.04127128327785,
+    "eval_count": 74,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-86",
+    "tokens_per_sec": 90.82005463779336,
+    "eval_count": 162,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-88",
+    "tokens_per_sec": 93.55460730453584,
+    "eval_count": 18,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Jsoup-90",
+    "tokens_per_sec": 87.61016978850905,
+    "eval_count": 330,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "KHEAPSORT",
+    "tokens_per_sec": 66.7966543427995,
+    "eval_count": 289,
+    "peak_vram_mb": 10197
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "KNAPSACK",
+    "tokens_per_sec": 67.34813779261667,
+    "eval_count": 322,
+    "peak_vram_mb": 10197
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "KTH",
+    "tokens_per_sec": 68.34285160548323,
+    "eval_count": 268,
+    "peak_vram_mb": 10197
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-21",
+    "tokens_per_sec": 87.46792695722714,
+    "eval_count": 248,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-26",
+    "tokens_per_sec": 90.53813005405286,
+    "eval_count": 57,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-29",
+    "tokens_per_sec": 90.61919853441815,
+    "eval_count": 37,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-38",
+    "tokens_per_sec": 93.19490783023616,
+    "eval_count": 65,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-43",
+    "tokens_per_sec": 83.02834255501458,
+    "eval_count": 300,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-49",
+    "tokens_per_sec": 96.96941374395401,
+    "eval_count": 83,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-51",
+    "tokens_per_sec": 78.93695695177807,
+    "eval_count": 498,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-54",
+    "tokens_per_sec": 80.65233604918295,
+    "eval_count": 388,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-57",
+    "tokens_per_sec": 90.46148279293367,
+    "eval_count": 49,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-59",
+    "tokens_per_sec": 86.44200989229417,
+    "eval_count": 187,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-6",
+    "tokens_per_sec": 89.12637814845297,
+    "eval_count": 175,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-61",
+    "tokens_per_sec": 85.77263124583376,
+    "eval_count": 219,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Lang-9",
+    "tokens_per_sec": 87.18441637298606,
+    "eval_count": 282,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "LCS_LENGTH",
+    "tokens_per_sec": 68.54925175855196,
+    "eval_count": 507,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "LEVENSHTEIN",
+    "tokens_per_sec": 69.67952524215889,
+    "eval_count": 232,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "LIS",
+    "tokens_per_sec": 68.36040734345819,
+    "eval_count": 291,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "LONGEST_COMMON_SUBSEQUENCE",
+    "tokens_per_sec": 70.13640321176356,
+    "eval_count": 232,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-10",
+    "tokens_per_sec": 76.06706328140062,
+    "eval_count": 666,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-11",
+    "tokens_per_sec": 85.95425033453395,
+    "eval_count": 125,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-2",
+    "tokens_per_sec": 91.38099529134038,
+    "eval_count": 36,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-27",
+    "tokens_per_sec": 89.81349518670571,
+    "eval_count": 38,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-33",
+    "tokens_per_sec": 81.83832828434677,
+    "eval_count": 417,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-41",
+    "tokens_per_sec": 84.98978328984964,
+    "eval_count": 308,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-5",
+    "tokens_per_sec": 87.0696965711772,
+    "eval_count": 192,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-53",
+    "tokens_per_sec": 88.42914467401087,
+    "eval_count": 45,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-57",
+    "tokens_per_sec": 80.95550083214724,
+    "eval_count": 430,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-59",
+    "tokens_per_sec": 90.23179317232427,
+    "eval_count": 44,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-69",
+    "tokens_per_sec": 85.68236023211703,
+    "eval_count": 219,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-70",
+    "tokens_per_sec": 89.5124015363583,
+    "eval_count": 55,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-75",
+    "tokens_per_sec": 94.71772764052729,
+    "eval_count": 35,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-80",
+    "tokens_per_sec": 87.54913572280174,
+    "eval_count": 178,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Math-94",
+    "tokens_per_sec": 79.34290035514725,
+    "eval_count": 565,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "MAX_SUBLIST_SUM",
+    "tokens_per_sec": 70.6792506462926,
+    "eval_count": 184,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "MERGESORT",
+    "tokens_per_sec": 67.31529893647213,
+    "eval_count": 375,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "MINIMUM_SPANNING_TREE",
+    "tokens_per_sec": 65.99261806574316,
+    "eval_count": 400,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Mockito-38",
+    "tokens_per_sec": 90.41380356288718,
+    "eval_count": 31,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "Mockito-8",
+    "tokens_per_sec": 85.70318832747907,
+    "eval_count": 203,
+    "peak_vram_mb": 10251
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "NEXT_PALINDROME",
+    "tokens_per_sec": 67.31289853968875,
+    "eval_count": 320,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "NEXT_PERMUTATION",
+    "tokens_per_sec": 66.96470424368724,
+    "eval_count": 200,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "PASCAL",
+    "tokens_per_sec": 67.14007491234976,
+    "eval_count": 269,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "POSSIBLE_CHANGE",
+    "tokens_per_sec": 72.28691558342813,
+    "eval_count": 164,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "POWERSET",
+    "tokens_per_sec": 67.95683824738676,
+    "eval_count": 319,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "QUICKSORT",
+    "tokens_per_sec": 69.23393720772964,
+    "eval_count": 291,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "REVERSE_LINKED_LIST",
+    "tokens_per_sec": 72.39570377905572,
+    "eval_count": 156,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "RPN_EVAL",
+    "tokens_per_sec": 66.92166190374076,
+    "eval_count": 367,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SHORTEST_PATH_LENGTH",
+    "tokens_per_sec": 67.79216540172438,
+    "eval_count": 486,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SHORTEST_PATH_LENGTHS",
+    "tokens_per_sec": 67.2888088204872,
+    "eval_count": 538,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SHORTEST_PATHS",
+    "tokens_per_sec": 65.8742366715887,
+    "eval_count": 616,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SHUNTING_YARD",
+    "tokens_per_sec": 67.22039635882813,
+    "eval_count": 334,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SIEVE",
+    "tokens_per_sec": 67.23045300758886,
+    "eval_count": 321,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SQRT",
+    "tokens_per_sec": 76.1408300793147,
+    "eval_count": 95,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "SUBSEQUENCES",
+    "tokens_per_sec": 70.25481997270722,
+    "eval_count": 257,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "TO_BASE",
+    "tokens_per_sec": 69.00055425096369,
+    "eval_count": 215,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "TOPOLOGICAL_ORDERING",
+    "tokens_per_sec": 69.15837179599039,
+    "eval_count": 237,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "bug": "WRAP",
+    "tokens_per_sec": 69.55491179624204,
+    "eval_count": 231,
+    "peak_vram_mb": 10199
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "BITCOUNT",
+    "tokens_per_sec": 21.569422297490362,
+    "eval_count": 97,
+    "peak_vram_mb": 10055
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "BREADTH_FIRST_SEARCH",
+    "tokens_per_sec": 22.43246677835792,
+    "eval_count": 200,
+    "peak_vram_mb": 10057
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "BUCKETSORT",
+    "tokens_per_sec": 21.883863366940513,
+    "eval_count": 170,
+    "peak_vram_mb": 10057
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-10",
+    "tokens_per_sec": 24.120287875635796,
+    "eval_count": 40,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-11",
+    "tokens_per_sec": 22.2016139006133,
+    "eval_count": 170,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-24",
+    "tokens_per_sec": 22.469756205632596,
+    "eval_count": 271,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-25",
+    "tokens_per_sec": 22.491024590819162,
+    "eval_count": 249,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-28",
+    "tokens_per_sec": 22.476757296553515,
+    "eval_count": 233,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-40",
+    "tokens_per_sec": 22.815788260396495,
+    "eval_count": 241,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-5",
+    "tokens_per_sec": 23.880053269179292,
+    "eval_count": 43,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Cli-9",
+    "tokens_per_sec": 22.66649581988185,
+    "eval_count": 147,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-104",
+    "tokens_per_sec": 22.15296712411067,
+    "eval_count": 200,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-119",
+    "tokens_per_sec": 21.408580927195604,
+    "eval_count": 768,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-120",
+    "tokens_per_sec": 22.417712192105412,
+    "eval_count": 106,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-130",
+    "tokens_per_sec": 21.88063136052939,
+    "eval_count": 344,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-31",
+    "tokens_per_sec": 21.640787927535627,
+    "eval_count": 990,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-52",
+    "tokens_per_sec": 23.09274953198174,
+    "eval_count": 74,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-59",
+    "tokens_per_sec": 22.051847299383766,
+    "eval_count": 492,
+    "peak_vram_mb": 10062
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-65",
+    "tokens_per_sec": 21.91019249428349,
+    "eval_count": 637,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-73",
+    "tokens_per_sec": 21.930967462007878,
+    "eval_count": 635,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-77",
+    "tokens_per_sec": 21.88480271285267,
+    "eval_count": 629,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Closure-92",
+    "tokens_per_sec": 21.812695858021076,
+    "eval_count": 502,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Codec-18",
+    "tokens_per_sec": 22.405752853932768,
+    "eval_count": 114,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Codec-2",
+    "tokens_per_sec": 21.490826631143282,
+    "eval_count": 565,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Codec-7",
+    "tokens_per_sec": 23.606541897349576,
+    "eval_count": 36,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Codec-9",
+    "tokens_per_sec": 22.121268795537137,
+    "eval_count": 165,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Collections-26",
+    "tokens_per_sec": 26.08666486958531,
+    "eval_count": 21,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-11",
+    "tokens_per_sec": 22.148394241417495,
+    "eval_count": 468,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-23",
+    "tokens_per_sec": 22.737144234746303,
+    "eval_count": 136,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-25",
+    "tokens_per_sec": 22.512279425140985,
+    "eval_count": 99,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-30",
+    "tokens_per_sec": 22.057874468540078,
+    "eval_count": 229,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-36",
+    "tokens_per_sec": 22.21577368959876,
+    "eval_count": 145,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-38",
+    "tokens_per_sec": 22.629170131758343,
+    "eval_count": 68,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-41",
+    "tokens_per_sec": 21.53064456147743,
+    "eval_count": 874,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Compress-45",
+    "tokens_per_sec": 22.21920323206879,
+    "eval_count": 210,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Csv-11",
+    "tokens_per_sec": 22.26377084533429,
+    "eval_count": 285,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Csv-9",
+    "tokens_per_sec": 23.038903132782178,
+    "eval_count": 77,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "DEPTH_FIRST_SEARCH",
+    "tokens_per_sec": 22.343938759732644,
+    "eval_count": 195,
+    "peak_vram_mb": 10057
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "DETECT_CYCLE",
+    "tokens_per_sec": 22.387895882328056,
+    "eval_count": 154,
+    "peak_vram_mb": 10057
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "FIND_FIRST_IN_SORTED",
+    "tokens_per_sec": 22.331452801692905,
+    "eval_count": 200,
+    "peak_vram_mb": 10057
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "FIND_IN_SORTED",
+    "tokens_per_sec": 22.26689164139318,
+    "eval_count": 197,
+    "peak_vram_mb": 10057
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "FLATTEN",
+    "tokens_per_sec": 21.81042259511313,
+    "eval_count": 144,
+    "peak_vram_mb": 10059
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "GCD",
+    "tokens_per_sec": 21.62748678710109,
+    "eval_count": 94,
+    "peak_vram_mb": 10059
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "GET_FACTORS",
+    "tokens_per_sec": 22.299979829793525,
+    "eval_count": 178,
+    "peak_vram_mb": 10059
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Gson-11",
+    "tokens_per_sec": 22.877146486037926,
+    "eval_count": 106,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Gson-13",
+    "tokens_per_sec": 21.716999049483007,
+    "eval_count": 777,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "HANOI",
+    "tokens_per_sec": 22.098722568630308,
+    "eval_count": 353,
+    "peak_vram_mb": 10059
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "IS_VALID_PARENTHESIZATION",
+    "tokens_per_sec": 22.336478129244554,
+    "eval_count": 157,
+    "peak_vram_mb": 10059
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonCore-26",
+    "tokens_per_sec": 22.47258960693888,
+    "eval_count": 246,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonCore-5",
+    "tokens_per_sec": 22.265880979652696,
+    "eval_count": 174,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonCore-8",
+    "tokens_per_sec": 22.438956382531234,
+    "eval_count": 122,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-1",
+    "tokens_per_sec": 21.83664994749278,
+    "eval_count": 363,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-20",
+    "tokens_per_sec": 22.786474294982156,
+    "eval_count": 79,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-24",
+    "tokens_per_sec": 22.595362460233748,
+    "eval_count": 107,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-46",
+    "tokens_per_sec": 23.21368423927391,
+    "eval_count": 51,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-57",
+    "tokens_per_sec": 22.72453437784131,
+    "eval_count": 96,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-71",
+    "tokens_per_sec": 21.864517014741907,
+    "eval_count": 398,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "JacksonDatabind-99",
+    "tokens_per_sec": 23.08067539382512,
+    "eval_count": 52,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-10",
+    "tokens_per_sec": 22.163624001727218,
+    "eval_count": 201,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-26",
+    "tokens_per_sec": 23.24740163791893,
+    "eval_count": 50,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-32",
+    "tokens_per_sec": 23.868903303456218,
+    "eval_count": 33,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-43",
+    "tokens_per_sec": 23.033753156256207,
+    "eval_count": 82,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-45",
+    "tokens_per_sec": 22.381314664960975,
+    "eval_count": 399,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-46",
+    "tokens_per_sec": 21.899964964141873,
+    "eval_count": 536,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-47",
+    "tokens_per_sec": 22.291282006532693,
+    "eval_count": 562,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-51",
+    "tokens_per_sec": 23.29671865717714,
+    "eval_count": 54,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-55",
+    "tokens_per_sec": 23.263750627048427,
+    "eval_count": 103,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-77",
+    "tokens_per_sec": 22.667052795964047,
+    "eval_count": 134,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-85",
+    "tokens_per_sec": 23.485590416000267,
+    "eval_count": 60,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-86",
+    "tokens_per_sec": 22.867523987079853,
+    "eval_count": 108,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-88",
+    "tokens_per_sec": 27.37561692908151,
+    "eval_count": 14,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Jsoup-90",
+    "tokens_per_sec": 22.478014622622144,
+    "eval_count": 317,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "KHEAPSORT",
+    "tokens_per_sec": 22.24758571630215,
+    "eval_count": 238,
+    "peak_vram_mb": 10059
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "KNAPSACK",
+    "tokens_per_sec": 22.05304836987119,
+    "eval_count": 278,
+    "peak_vram_mb": 10059
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "KTH",
+    "tokens_per_sec": 22.140111068035534,
+    "eval_count": 194,
+    "peak_vram_mb": 10059
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-21",
+    "tokens_per_sec": 22.897960992271383,
+    "eval_count": 185,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-26",
+    "tokens_per_sec": 24.14289901193782,
+    "eval_count": 43,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-29",
+    "tokens_per_sec": 24.350128280903082,
+    "eval_count": 33,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-38",
+    "tokens_per_sec": 23.195398033030248,
+    "eval_count": 51,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-43",
+    "tokens_per_sec": 22.96086176984708,
+    "eval_count": 231,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-49",
+    "tokens_per_sec": 23.9278304190047,
+    "eval_count": 59,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-51",
+    "tokens_per_sec": 22.070936406831525,
+    "eval_count": 529,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-54",
+    "tokens_per_sec": 22.27464892550191,
+    "eval_count": 338,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-57",
+    "tokens_per_sec": 24.54208558643313,
+    "eval_count": 30,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-59",
+    "tokens_per_sec": 22.27482401159619,
+    "eval_count": 161,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-6",
+    "tokens_per_sec": 22.624699803751678,
+    "eval_count": 162,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-61",
+    "tokens_per_sec": 22.519361355371245,
+    "eval_count": 202,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Lang-9",
+    "tokens_per_sec": 22.417181552727452,
+    "eval_count": 245,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "LCS_LENGTH",
+    "tokens_per_sec": 21.65955951777482,
+    "eval_count": 639,
+    "peak_vram_mb": 10059
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "LEVENSHTEIN",
+    "tokens_per_sec": 22.092307841117382,
+    "eval_count": 186,
+    "peak_vram_mb": 10059
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "LIS",
+    "tokens_per_sec": 21.989668817758144,
+    "eval_count": 222,
+    "peak_vram_mb": 10059
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "LONGEST_COMMON_SUBSEQUENCE",
+    "tokens_per_sec": 22.11460353273077,
+    "eval_count": 172,
+    "peak_vram_mb": 10059
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-10",
+    "tokens_per_sec": 22.377676958642954,
+    "eval_count": 578,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-11",
+    "tokens_per_sec": 22.891832681159634,
+    "eval_count": 94,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-2",
+    "tokens_per_sec": 24.175965400376253,
+    "eval_count": 38,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-27",
+    "tokens_per_sec": 26.172249088432462,
+    "eval_count": 22,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-33",
+    "tokens_per_sec": 22.342643903989796,
+    "eval_count": 341,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-41",
+    "tokens_per_sec": 22.344045441118567,
+    "eval_count": 268,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-5",
+    "tokens_per_sec": 22.752780040250112,
+    "eval_count": 153,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-53",
+    "tokens_per_sec": 23.522384010030382,
+    "eval_count": 43,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-57",
+    "tokens_per_sec": 22.303216425557963,
+    "eval_count": 340,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-59",
+    "tokens_per_sec": 23.280488276045173,
+    "eval_count": 47,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-69",
+    "tokens_per_sec": 22.485131706658972,
+    "eval_count": 186,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-70",
+    "tokens_per_sec": 23.546659240937608,
+    "eval_count": 46,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-75",
+    "tokens_per_sec": 25.454009377681288,
+    "eval_count": 24,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-80",
+    "tokens_per_sec": 22.676465961763462,
+    "eval_count": 158,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Math-94",
+    "tokens_per_sec": 22.029799681524835,
+    "eval_count": 541,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "MAX_SUBLIST_SUM",
+    "tokens_per_sec": 22.188879392728627,
+    "eval_count": 145,
+    "peak_vram_mb": 10059
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "MERGESORT",
+    "tokens_per_sec": 21.815243380161373,
+    "eval_count": 361,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "MINIMUM_SPANNING_TREE",
+    "tokens_per_sec": 21.839428333109353,
+    "eval_count": 352,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Mockito-38",
+    "tokens_per_sec": 24.076378527447414,
+    "eval_count": 35,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "Mockito-8",
+    "tokens_per_sec": 22.350192796791855,
+    "eval_count": 233,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "NEXT_PALINDROME",
+    "tokens_per_sec": 21.93816362944979,
+    "eval_count": 267,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "NEXT_PERMUTATION",
+    "tokens_per_sec": 22.293334056301532,
+    "eval_count": 273,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "PASCAL",
+    "tokens_per_sec": 21.597350868942417,
+    "eval_count": 240,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "POSSIBLE_CHANGE",
+    "tokens_per_sec": 22.22650604881539,
+    "eval_count": 156,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "POWERSET",
+    "tokens_per_sec": 21.936541396313384,
+    "eval_count": 213,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "QUICKSORT",
+    "tokens_per_sec": 21.938721618919267,
+    "eval_count": 205,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "REVERSE_LINKED_LIST",
+    "tokens_per_sec": 21.702099135538884,
+    "eval_count": 124,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "RPN_EVAL",
+    "tokens_per_sec": 21.97218338166661,
+    "eval_count": 265,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SHORTEST_PATH_LENGTH",
+    "tokens_per_sec": 21.454118594822468,
+    "eval_count": 351,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SHORTEST_PATH_LENGTHS",
+    "tokens_per_sec": 21.607286975244204,
+    "eval_count": 407,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SHORTEST_PATHS",
+    "tokens_per_sec": 21.489332516261154,
+    "eval_count": 480,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SHUNTING_YARD",
+    "tokens_per_sec": 21.87103893036039,
+    "eval_count": 246,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SIEVE",
+    "tokens_per_sec": 21.952027445522315,
+    "eval_count": 256,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SQRT",
+    "tokens_per_sec": 22.33117060324702,
+    "eval_count": 136,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "SUBSEQUENCES",
+    "tokens_per_sec": 22.73237241807183,
+    "eval_count": 178,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "TO_BASE",
+    "tokens_per_sec": 22.69204422048136,
+    "eval_count": 133,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "TOPOLOGICAL_ORDERING",
+    "tokens_per_sec": 21.840610139284852,
+    "eval_count": 180,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:14b-instruct",
+    "bug": "WRAP",
+    "tokens_per_sec": 22.38793462923204,
+    "eval_count": 179,
+    "peak_vram_mb": 10061
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "BITCOUNT",
+    "tokens_per_sec": 130.1806686619515,
+    "eval_count": 106,
+    "peak_vram_mb": 2541
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "BREADTH_FIRST_SEARCH",
+    "tokens_per_sec": 124.72096443520994,
+    "eval_count": 226,
+    "peak_vram_mb": 2543
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "BUCKETSORT",
+    "tokens_per_sec": 134.74227477624618,
+    "eval_count": 165,
+    "peak_vram_mb": 2543
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-10",
+    "tokens_per_sec": 74.47700591402595,
+    "eval_count": 27,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-11",
+    "tokens_per_sec": 94.52039492339551,
+    "eval_count": 154,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-24",
+    "tokens_per_sec": 92.85829616114103,
+    "eval_count": 268,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-25",
+    "tokens_per_sec": 94.50595024002088,
+    "eval_count": 273,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-28",
+    "tokens_per_sec": 90.64028217525784,
+    "eval_count": 233,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-40",
+    "tokens_per_sec": 94.44121197384304,
+    "eval_count": 261,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-5",
+    "tokens_per_sec": 82.759722840542,
+    "eval_count": 58,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Cli-9",
+    "tokens_per_sec": 91.8208518188761,
+    "eval_count": 145,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-104",
+    "tokens_per_sec": 92.36890393955674,
+    "eval_count": 201,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-119",
+    "tokens_per_sec": 92.10617684555127,
+    "eval_count": 768,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-120",
+    "tokens_per_sec": 88.53744705603468,
+    "eval_count": 93,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-130",
+    "tokens_per_sec": 94.86252838594736,
+    "eval_count": 342,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-31",
+    "tokens_per_sec": 91.83328546279091,
+    "eval_count": 987,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-52",
+    "tokens_per_sec": 94.79271991911021,
+    "eval_count": 84,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-59",
+    "tokens_per_sec": 94.12132008594882,
+    "eval_count": 492,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-65",
+    "tokens_per_sec": 92.49357497267097,
+    "eval_count": 607,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-73",
+    "tokens_per_sec": 92.13439824074993,
+    "eval_count": 606,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-77",
+    "tokens_per_sec": 93.19563769232565,
+    "eval_count": 595,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Closure-92",
+    "tokens_per_sec": 93.26824374224894,
+    "eval_count": 502,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Codec-18",
+    "tokens_per_sec": 84.02133883479208,
+    "eval_count": 65,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Codec-2",
+    "tokens_per_sec": 93.80066238984692,
+    "eval_count": 561,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Codec-7",
+    "tokens_per_sec": 81.36664974756965,
+    "eval_count": 42,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Codec-9",
+    "tokens_per_sec": 92.1554370022061,
+    "eval_count": 164,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Collections-26",
+    "tokens_per_sec": 98.52355416684262,
+    "eval_count": 21,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-11",
+    "tokens_per_sec": 93.55694568949781,
+    "eval_count": 471,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-23",
+    "tokens_per_sec": 94.76599234618368,
+    "eval_count": 162,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-25",
+    "tokens_per_sec": 86.0796282840998,
+    "eval_count": 93,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-30",
+    "tokens_per_sec": 92.71745422485952,
+    "eval_count": 226,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-36",
+    "tokens_per_sec": 87.96073147668832,
+    "eval_count": 148,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-38",
+    "tokens_per_sec": 96.3556010648013,
+    "eval_count": 67,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-41",
+    "tokens_per_sec": 91.98971781357255,
+    "eval_count": 837,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Compress-45",
+    "tokens_per_sec": 95.05296043269426,
+    "eval_count": 173,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Csv-11",
+    "tokens_per_sec": 95.06900210950408,
+    "eval_count": 296,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Csv-9",
+    "tokens_per_sec": 89.05948169890368,
+    "eval_count": 71,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "DEPTH_FIRST_SEARCH",
+    "tokens_per_sec": 133.87954327551643,
+    "eval_count": 192,
+    "peak_vram_mb": 2543
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "DETECT_CYCLE",
+    "tokens_per_sec": 126.336829780298,
+    "eval_count": 112,
+    "peak_vram_mb": 2543
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "FIND_FIRST_IN_SORTED",
+    "tokens_per_sec": 138.0202038694286,
+    "eval_count": 193,
+    "peak_vram_mb": 2543
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "FIND_IN_SORTED",
+    "tokens_per_sec": 137.5678012734848,
+    "eval_count": 189,
+    "peak_vram_mb": 2543
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "FLATTEN",
+    "tokens_per_sec": 130.23000065115,
+    "eval_count": 144,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "GCD",
+    "tokens_per_sec": 103.85696023935715,
+    "eval_count": 94,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "GET_FACTORS",
+    "tokens_per_sec": 117.88099384265922,
+    "eval_count": 167,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Gson-11",
+    "tokens_per_sec": 90.48453689467989,
+    "eval_count": 116,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Gson-13",
+    "tokens_per_sec": 92.65822881294567,
+    "eval_count": 778,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "HANOI",
+    "tokens_per_sec": 128.15951321168464,
+    "eval_count": 353,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "IS_VALID_PARENTHESIZATION",
+    "tokens_per_sec": 127.96650558746059,
+    "eval_count": 156,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonCore-26",
+    "tokens_per_sec": 92.68282449954137,
+    "eval_count": 243,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonCore-5",
+    "tokens_per_sec": 92.79950457189118,
+    "eval_count": 199,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonCore-8",
+    "tokens_per_sec": 89.87377334683562,
+    "eval_count": 127,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-1",
+    "tokens_per_sec": 93.86263516219464,
+    "eval_count": 360,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-20",
+    "tokens_per_sec": 95.36371491074875,
+    "eval_count": 83,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-24",
+    "tokens_per_sec": 95.51626070695141,
+    "eval_count": 102,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-46",
+    "tokens_per_sec": 82.67672930858855,
+    "eval_count": 53,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-57",
+    "tokens_per_sec": 88.09296352559785,
+    "eval_count": 90,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-71",
+    "tokens_per_sec": 93.94354994077266,
+    "eval_count": 394,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "JacksonDatabind-99",
+    "tokens_per_sec": 76.09931122027675,
+    "eval_count": 47,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-10",
+    "tokens_per_sec": 92.14494399690713,
+    "eval_count": 184,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-26",
+    "tokens_per_sec": 68.15305228312725,
+    "eval_count": 49,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-32",
+    "tokens_per_sec": 81.58291688436577,
+    "eval_count": 47,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-43",
+    "tokens_per_sec": 89.15167230927045,
+    "eval_count": 81,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-45",
+    "tokens_per_sec": 93.37946369061353,
+    "eval_count": 414,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-46",
+    "tokens_per_sec": 94.01819743260158,
+    "eval_count": 536,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-47",
+    "tokens_per_sec": 93.46802911952453,
+    "eval_count": 563,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-51",
+    "tokens_per_sec": 86.27245480281952,
+    "eval_count": 54,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-55",
+    "tokens_per_sec": 85.63596422039271,
+    "eval_count": 95,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-77",
+    "tokens_per_sec": 94.36865566139804,
+    "eval_count": 157,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-85",
+    "tokens_per_sec": 89.67473691851983,
+    "eval_count": 63,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-86",
+    "tokens_per_sec": 92.75312685060325,
+    "eval_count": 117,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-88",
+    "tokens_per_sec": 98.13333333333334,
+    "eval_count": 23,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Jsoup-90",
+    "tokens_per_sec": 92.62249084873821,
+    "eval_count": 290,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "KHEAPSORT",
+    "tokens_per_sec": 119.98551118355519,
+    "eval_count": 212,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "KNAPSACK",
+    "tokens_per_sec": 131.28714292730658,
+    "eval_count": 278,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "KTH",
+    "tokens_per_sec": 92.72973257086987,
+    "eval_count": 217,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-21",
+    "tokens_per_sec": 95.75717236918942,
+    "eval_count": 61,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-26",
+    "tokens_per_sec": 76.87894004567733,
+    "eval_count": 41,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-29",
+    "tokens_per_sec": 68.47826410577808,
+    "eval_count": 23,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-38",
+    "tokens_per_sec": 83.19721344799757,
+    "eval_count": 60,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-43",
+    "tokens_per_sec": 92.7590927100629,
+    "eval_count": 280,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-49",
+    "tokens_per_sec": 85.55756598231176,
+    "eval_count": 54,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-51",
+    "tokens_per_sec": 96.50067121577979,
+    "eval_count": 135,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-54",
+    "tokens_per_sec": 92.79593323195333,
+    "eval_count": 338,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-57",
+    "tokens_per_sec": 87.99302923514742,
+    "eval_count": 41,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-59",
+    "tokens_per_sec": 87.11048120791776,
+    "eval_count": 163,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-6",
+    "tokens_per_sec": 90.10515943101467,
+    "eval_count": 188,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-61",
+    "tokens_per_sec": 92.96259231766433,
+    "eval_count": 200,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Lang-9",
+    "tokens_per_sec": 94.4756239502974,
+    "eval_count": 247,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "LCS_LENGTH",
+    "tokens_per_sec": 91.20161733613045,
+    "eval_count": 443,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "LEVENSHTEIN",
+    "tokens_per_sec": 91.80619810296805,
+    "eval_count": 186,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "LIS",
+    "tokens_per_sec": 92.14129725447431,
+    "eval_count": 194,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "LONGEST_COMMON_SUBSEQUENCE",
+    "tokens_per_sec": 91.7890520694259,
+    "eval_count": 176,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-10",
+    "tokens_per_sec": 92.78669260880908,
+    "eval_count": 876,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-11",
+    "tokens_per_sec": 94.3136604891219,
+    "eval_count": 134,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-2",
+    "tokens_per_sec": 78.64066980879832,
+    "eval_count": 30,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-27",
+    "tokens_per_sec": 68.53674058843688,
+    "eval_count": 21,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-33",
+    "tokens_per_sec": 93.89281563936689,
+    "eval_count": 337,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-41",
+    "tokens_per_sec": 93.7798748388596,
+    "eval_count": 268,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-5",
+    "tokens_per_sec": 92.03237164452942,
+    "eval_count": 155,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-53",
+    "tokens_per_sec": 81.81600359990416,
+    "eval_count": 42,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-57",
+    "tokens_per_sec": 94.02144237116048,
+    "eval_count": 343,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-59",
+    "tokens_per_sec": 85.82645890010399,
+    "eval_count": 43,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-69",
+    "tokens_per_sec": 92.30028094823484,
+    "eval_count": 187,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-70",
+    "tokens_per_sec": 66.57247893720736,
+    "eval_count": 45,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-75",
+    "tokens_per_sec": 69.29755379635098,
+    "eval_count": 21,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-80",
+    "tokens_per_sec": 92.27516688372745,
+    "eval_count": 158,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Math-94",
+    "tokens_per_sec": 93.47074064299358,
+    "eval_count": 527,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "MAX_SUBLIST_SUM",
+    "tokens_per_sec": 92.34863691946055,
+    "eval_count": 315,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "MERGESORT",
+    "tokens_per_sec": 92.48837437856828,
+    "eval_count": 383,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "MINIMUM_SPANNING_TREE",
+    "tokens_per_sec": 92.79727269333975,
+    "eval_count": 358,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Mockito-38",
+    "tokens_per_sec": 76.95225112817495,
+    "eval_count": 28,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "Mockito-8",
+    "tokens_per_sec": 94.10476689849447,
+    "eval_count": 306,
+    "peak_vram_mb": 2555
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "NEXT_PALINDROME",
+    "tokens_per_sec": 93.12342623257355,
+    "eval_count": 252,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "NEXT_PERMUTATION",
+    "tokens_per_sec": 94.57016892878681,
+    "eval_count": 195,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "PASCAL",
+    "tokens_per_sec": 92.95052708196064,
+    "eval_count": 248,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "POSSIBLE_CHANGE",
+    "tokens_per_sec": 90.06467021214954,
+    "eval_count": 143,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "POWERSET",
+    "tokens_per_sec": 92.03153430761608,
+    "eval_count": 201,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "QUICKSORT",
+    "tokens_per_sec": 92.66624279619722,
+    "eval_count": 209,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "REVERSE_LINKED_LIST",
+    "tokens_per_sec": 90.56312924514668,
+    "eval_count": 141,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "RPN_EVAL",
+    "tokens_per_sec": 93.19270890960692,
+    "eval_count": 267,
+    "peak_vram_mb": 2545
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SHORTEST_PATH_LENGTH",
+    "tokens_per_sec": 92.64434841087846,
+    "eval_count": 359,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SHORTEST_PATH_LENGTHS",
+    "tokens_per_sec": 92.81713659133615,
+    "eval_count": 408,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SHORTEST_PATHS",
+    "tokens_per_sec": 94.34397523718923,
+    "eval_count": 456,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SHUNTING_YARD",
+    "tokens_per_sec": 92.7546439223895,
+    "eval_count": 236,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SIEVE",
+    "tokens_per_sec": 91.82886011276585,
+    "eval_count": 265,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SQRT",
+    "tokens_per_sec": 87.3576071004263,
+    "eval_count": 110,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "SUBSEQUENCES",
+    "tokens_per_sec": 91.88928680991503,
+    "eval_count": 192,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "TO_BASE",
+    "tokens_per_sec": 88.20329249370666,
+    "eval_count": 137,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "TOPOLOGICAL_ORDERING",
+    "tokens_per_sec": 93.00038831741087,
+    "eval_count": 171,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:3b-instruct",
+    "bug": "WRAP",
+    "tokens_per_sec": 92.18241150133947,
+    "eval_count": 195,
+    "peak_vram_mb": 2547
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "BITCOUNT",
+    "tokens_per_sec": 43.51873661069798,
+    "eval_count": 97,
+    "peak_vram_mb": 7650
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "BREADTH_FIRST_SEARCH",
+    "tokens_per_sec": 45.384826277999665,
+    "eval_count": 196,
+    "peak_vram_mb": 7652
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "BUCKETSORT",
+    "tokens_per_sec": 46.33772210149559,
+    "eval_count": 174,
+    "peak_vram_mb": 7652
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-10",
+    "tokens_per_sec": 52.37714659466519,
+    "eval_count": 27,
+    "peak_vram_mb": 5153
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-11",
+    "tokens_per_sec": 45.39206558879297,
+    "eval_count": 149,
+    "peak_vram_mb": 5153
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-24",
+    "tokens_per_sec": 44.86173409634534,
+    "eval_count": 264,
+    "peak_vram_mb": 5153
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-25",
+    "tokens_per_sec": 44.60851263527127,
+    "eval_count": 248,
+    "peak_vram_mb": 5153
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-28",
+    "tokens_per_sec": 44.788146201026414,
+    "eval_count": 229,
+    "peak_vram_mb": 5153
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-40",
+    "tokens_per_sec": 44.431987031784054,
+    "eval_count": 240,
+    "peak_vram_mb": 5153
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-5",
+    "tokens_per_sec": 45.58316056752724,
+    "eval_count": 54,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Cli-9",
+    "tokens_per_sec": 45.743936798915016,
+    "eval_count": 145,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-104",
+    "tokens_per_sec": 45.205725258975754,
+    "eval_count": 196,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-119",
+    "tokens_per_sec": 43.10277596971603,
+    "eval_count": 771,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-120",
+    "tokens_per_sec": 44.984083697555874,
+    "eval_count": 106,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-130",
+    "tokens_per_sec": 43.85980848056647,
+    "eval_count": 338,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-31",
+    "tokens_per_sec": 43.004591510407614,
+    "eval_count": 991,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-52",
+    "tokens_per_sec": 44.66528948690748,
+    "eval_count": 72,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-59",
+    "tokens_per_sec": 43.750774473704574,
+    "eval_count": 489,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-65",
+    "tokens_per_sec": 43.430424460015054,
+    "eval_count": 627,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-73",
+    "tokens_per_sec": 44.087931445587024,
+    "eval_count": 627,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-77",
+    "tokens_per_sec": 43.500186540702224,
+    "eval_count": 614,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Closure-92",
+    "tokens_per_sec": 42.86749009820754,
+    "eval_count": 502,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Codec-18",
+    "tokens_per_sec": 43.39171974522293,
+    "eval_count": 109,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Codec-2",
+    "tokens_per_sec": 43.50145869803611,
+    "eval_count": 513,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Codec-7",
+    "tokens_per_sec": 50.01486552947682,
+    "eval_count": 36,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Codec-9",
+    "tokens_per_sec": 44.67218937012768,
+    "eval_count": 161,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Collections-26",
+    "tokens_per_sec": 47.689446325528166,
+    "eval_count": 19,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-11",
+    "tokens_per_sec": 43.66911208410719,
+    "eval_count": 551,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-23",
+    "tokens_per_sec": 44.985799482629986,
+    "eval_count": 135,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-25",
+    "tokens_per_sec": 45.33714896093233,
+    "eval_count": 91,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-30",
+    "tokens_per_sec": 44.23720542514028,
+    "eval_count": 224,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-36",
+    "tokens_per_sec": 44.24227572225516,
+    "eval_count": 141,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-38",
+    "tokens_per_sec": 42.715686599426284,
+    "eval_count": 58,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-41",
+    "tokens_per_sec": 42.6654636337617,
+    "eval_count": 833,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Compress-45",
+    "tokens_per_sec": 44.94371610398215,
+    "eval_count": 194,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Csv-11",
+    "tokens_per_sec": 45.10130881492553,
+    "eval_count": 288,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Csv-9",
+    "tokens_per_sec": 46.44150389704794,
+    "eval_count": 69,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "DEPTH_FIRST_SEARCH",
+    "tokens_per_sec": 45.96306646882639,
+    "eval_count": 177,
+    "peak_vram_mb": 7652
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "DETECT_CYCLE",
+    "tokens_per_sec": 45.5149447056637,
+    "eval_count": 144,
+    "peak_vram_mb": 7652
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "FIND_FIRST_IN_SORTED",
+    "tokens_per_sec": 45.26290160566413,
+    "eval_count": 182,
+    "peak_vram_mb": 7652
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "FIND_IN_SORTED",
+    "tokens_per_sec": 44.90402498017679,
+    "eval_count": 199,
+    "peak_vram_mb": 7652
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "FLATTEN",
+    "tokens_per_sec": 45.80240580408086,
+    "eval_count": 140,
+    "peak_vram_mb": 7654
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "GCD",
+    "tokens_per_sec": 45.66585381446877,
+    "eval_count": 90,
+    "peak_vram_mb": 7654
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "GET_FACTORS",
+    "tokens_per_sec": 45.302270989901224,
+    "eval_count": 175,
+    "peak_vram_mb": 7656
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Gson-11",
+    "tokens_per_sec": 46.681113440167465,
+    "eval_count": 83,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Gson-13",
+    "tokens_per_sec": 43.1116607449695,
+    "eval_count": 782,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "HANOI",
+    "tokens_per_sec": 44.88023334669993,
+    "eval_count": 353,
+    "peak_vram_mb": 7658
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "IS_VALID_PARENTHESIZATION",
+    "tokens_per_sec": 45.91475077410383,
+    "eval_count": 146,
+    "peak_vram_mb": 7658
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonCore-26",
+    "tokens_per_sec": 44.48479865829417,
+    "eval_count": 241,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonCore-5",
+    "tokens_per_sec": 45.79077510623986,
+    "eval_count": 174,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonCore-8",
+    "tokens_per_sec": 45.55093065263489,
+    "eval_count": 116,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-1",
+    "tokens_per_sec": 44.08158113141333,
+    "eval_count": 359,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-20",
+    "tokens_per_sec": 47.33282525439896,
+    "eval_count": 79,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-24",
+    "tokens_per_sec": 45.026319930650374,
+    "eval_count": 99,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-46",
+    "tokens_per_sec": 47.860489603041195,
+    "eval_count": 49,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-57",
+    "tokens_per_sec": 45.639991745114536,
+    "eval_count": 92,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-71",
+    "tokens_per_sec": 44.22313918514713,
+    "eval_count": 394,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "JacksonDatabind-99",
+    "tokens_per_sec": 44.51188669701568,
+    "eval_count": 44,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-10",
+    "tokens_per_sec": 46.18714827203614,
+    "eval_count": 180,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-26",
+    "tokens_per_sec": 49.61542651469965,
+    "eval_count": 46,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-32",
+    "tokens_per_sec": 50.894117102736715,
+    "eval_count": 33,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-43",
+    "tokens_per_sec": 44.02135633603186,
+    "eval_count": 81,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-45",
+    "tokens_per_sec": 45.224038167714326,
+    "eval_count": 395,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-46",
+    "tokens_per_sec": 43.20168674976657,
+    "eval_count": 532,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-47",
+    "tokens_per_sec": 43.76125303368221,
+    "eval_count": 558,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-51",
+    "tokens_per_sec": 49.00000784000125,
+    "eval_count": 50,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-55",
+    "tokens_per_sec": 45.87100805325668,
+    "eval_count": 103,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-77",
+    "tokens_per_sec": 45.08541215169203,
+    "eval_count": 146,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-85",
+    "tokens_per_sec": 46.91850172467386,
+    "eval_count": 56,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-86",
+    "tokens_per_sec": 45.94058512185942,
+    "eval_count": 114,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-88",
+    "tokens_per_sec": 44.700728621876536,
+    "eval_count": 11,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Jsoup-90",
+    "tokens_per_sec": 44.47521264363583,
+    "eval_count": 320,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "KHEAPSORT",
+    "tokens_per_sec": 44.71955321550714,
+    "eval_count": 235,
+    "peak_vram_mb": 7658
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "KNAPSACK",
+    "tokens_per_sec": 45.05376942943807,
+    "eval_count": 271,
+    "peak_vram_mb": 7658
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "KTH",
+    "tokens_per_sec": 46.15075947147179,
+    "eval_count": 190,
+    "peak_vram_mb": 7658
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-21",
+    "tokens_per_sec": 44.70759626521139,
+    "eval_count": 181,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-26",
+    "tokens_per_sec": 51.65357863371857,
+    "eval_count": 35,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-29",
+    "tokens_per_sec": 45.68746064810519,
+    "eval_count": 32,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-38",
+    "tokens_per_sec": 49.10708688401951,
+    "eval_count": 47,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-43",
+    "tokens_per_sec": 44.772274836644186,
+    "eval_count": 231,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-49",
+    "tokens_per_sec": 43.4836232768626,
+    "eval_count": 55,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-51",
+    "tokens_per_sec": 43.108598957222455,
+    "eval_count": 421,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-54",
+    "tokens_per_sec": 43.095411593502284,
+    "eval_count": 340,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-57",
+    "tokens_per_sec": 47.14863891309185,
+    "eval_count": 25,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-59",
+    "tokens_per_sec": 45.09231059915509,
+    "eval_count": 163,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-6",
+    "tokens_per_sec": 45.702259292348074,
+    "eval_count": 197,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-61",
+    "tokens_per_sec": 44.654061902848156,
+    "eval_count": 203,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Lang-9",
+    "tokens_per_sec": 44.41982340207422,
+    "eval_count": 244,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "LCS_LENGTH",
+    "tokens_per_sec": 44.30748825136925,
+    "eval_count": 434,
+    "peak_vram_mb": 7658
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "LEVENSHTEIN",
+    "tokens_per_sec": 42.74956812424006,
+    "eval_count": 183,
+    "peak_vram_mb": 7658
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "LIS",
+    "tokens_per_sec": 45.183661171681045,
+    "eval_count": 217,
+    "peak_vram_mb": 7658
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "LONGEST_COMMON_SUBSEQUENCE",
+    "tokens_per_sec": 44.89722190608545,
+    "eval_count": 172,
+    "peak_vram_mb": 7658
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-10",
+    "tokens_per_sec": 44.17108174492012,
+    "eval_count": 816,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-11",
+    "tokens_per_sec": 46.19294056385832,
+    "eval_count": 88,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-2",
+    "tokens_per_sec": 42.311865748544676,
+    "eval_count": 31,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-27",
+    "tokens_per_sec": 48.80601507021287,
+    "eval_count": 18,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-33",
+    "tokens_per_sec": 44.14398834183235,
+    "eval_count": 340,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-41",
+    "tokens_per_sec": 44.35013111873726,
+    "eval_count": 256,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-5",
+    "tokens_per_sec": 43.879296944681684,
+    "eval_count": 153,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-53",
+    "tokens_per_sec": 40.70941618725537,
+    "eval_count": 41,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-57",
+    "tokens_per_sec": 44.15549548530501,
+    "eval_count": 324,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-59",
+    "tokens_per_sec": 45.25942353420394,
+    "eval_count": 39,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-69",
+    "tokens_per_sec": 45.06437396299324,
+    "eval_count": 182,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-70",
+    "tokens_per_sec": 46.70153714773698,
+    "eval_count": 42,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-75",
+    "tokens_per_sec": 45.04415227806296,
+    "eval_count": 50,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-80",
+    "tokens_per_sec": 45.90938441477757,
+    "eval_count": 154,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Math-94",
+    "tokens_per_sec": 43.76646183364849,
+    "eval_count": 537,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "MAX_SUBLIST_SUM",
+    "tokens_per_sec": 44.56091721329685,
+    "eval_count": 137,
+    "peak_vram_mb": 7658
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "MERGESORT",
+    "tokens_per_sec": 44.65741294024661,
+    "eval_count": 352,
+    "peak_vram_mb": 7658
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "MINIMUM_SPANNING_TREE",
+    "tokens_per_sec": 44.473538061078706,
+    "eval_count": 363,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Mockito-38",
+    "tokens_per_sec": 48.040994982384966,
+    "eval_count": 27,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "Mockito-8",
+    "tokens_per_sec": 44.50252877360553,
+    "eval_count": 229,
+    "peak_vram_mb": 5163
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "NEXT_PALINDROME",
+    "tokens_per_sec": 44.62527158661379,
+    "eval_count": 272,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "NEXT_PERMUTATION",
+    "tokens_per_sec": 44.76607337016047,
+    "eval_count": 281,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "PASCAL",
+    "tokens_per_sec": 44.595511137079455,
+    "eval_count": 206,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "POSSIBLE_CHANGE",
+    "tokens_per_sec": 45.492986879691664,
+    "eval_count": 139,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "POWERSET",
+    "tokens_per_sec": 46.07483094602469,
+    "eval_count": 187,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "QUICKSORT",
+    "tokens_per_sec": 45.23115769258434,
+    "eval_count": 205,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "REVERSE_LINKED_LIST",
+    "tokens_per_sec": 45.07575544148885,
+    "eval_count": 120,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "RPN_EVAL",
+    "tokens_per_sec": 44.59986429653939,
+    "eval_count": 253,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SHORTEST_PATH_LENGTH",
+    "tokens_per_sec": 44.332074773938,
+    "eval_count": 351,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SHORTEST_PATH_LENGTHS",
+    "tokens_per_sec": 44.0313101312384,
+    "eval_count": 421,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SHORTEST_PATHS",
+    "tokens_per_sec": 44.08222222924652,
+    "eval_count": 516,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SHUNTING_YARD",
+    "tokens_per_sec": 44.08892551027838,
+    "eval_count": 238,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SIEVE",
+    "tokens_per_sec": 44.2587412252504,
+    "eval_count": 268,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SQRT",
+    "tokens_per_sec": 45.08843481646958,
+    "eval_count": 110,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "SUBSEQUENCES",
+    "tokens_per_sec": 44.06415832777204,
+    "eval_count": 193,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "TO_BASE",
+    "tokens_per_sec": 44.433044451221605,
+    "eval_count": 132,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "TOPOLOGICAL_ORDERING",
+    "tokens_per_sec": 45.063302080659625,
+    "eval_count": 171,
+    "peak_vram_mb": 7660
+  },
+  {
+    "model": "qwen2.5-coder:7b-instruct",
+    "bug": "WRAP",
+    "tokens_per_sec": 44.518432666252174,
+    "eval_count": 175,
+    "peak_vram_mb": 7660
+  }
+]
